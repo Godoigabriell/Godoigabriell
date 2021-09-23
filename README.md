@@ -1,21 +1,18 @@
-<div align="center">
-  <h3  align="left">🔵 18 anos </h3>
-  <h3 align="left">🔵 Cursando Técnico | Analise e desenvolvimento de Sistemas | Etec Rosa Perrone </h3>
-  <h3 align="left">🔵 Estudando Html,css,javascript </h3>
-  </div>
-</div>
 
+# Eai meu nome é Gabriel
+* `18 anos`
+* `Cursando Técnico em<br>Analise e desenvolvimento de Sistemas`
+* `Conhecimentos basico em Html,css,javascript,php e phyton `
 
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godoigabriell&show_icons=true&theme=Dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godoigabriell&layout=compact&langs_count=7&theme=Dark"/>
+<div  style="display: inline_block">
+  <a href="https://github.com/Godoigabriell">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Godoigabriell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+    <br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godoigabriell&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
 <div align="center" style="display: inline_block"><br>
- <p> Conhecimentos basicos em:</p>
   <img align="center" alt="Godoi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Godoi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Godoi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
