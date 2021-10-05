@@ -1,28 +1,36 @@
 # Eai meu nome é Gabriel
- <img align="center"   alt="Godoi" height="205" width="180" border-radius=15px src="https://user-images.githubusercontent.com/91087797/134597250-54b94602-58d0-4a18-9a33-92e780a70955.png">
- 
+
+<img align="center"  alt="Godoi" height="150" width="130" border-radius=15px src="https://user-images.githubusercontent.com/91087797/134597250-54b94602-58d0-4a18-9a33-92e780a70955.png">
+
 * `18 anos`
 * `Cursando Técnico em Analise e desenvolvimento de Sistemas`
-
-# Conhecimentos basicos em:
-
-<div align="left" style="display: inline_block">
-  <img align="center" alt="Godoi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Godoi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Godoi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Godoi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  alt="Godoi-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Godoi-git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-</svg>
-</div>
+* `Foco em atuar na área Front-end`
 
 
 # 
 
-<div align="left" style="display: inline_block">
+   
+   <div>
   <a href="https://github.com/Godoigabriell">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Godoigabriell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godoigabriell&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Godoigabriell&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godoigabriell&layout=compact&langs_count=7&theme=github_dark"/>
+ </div>
+   
+   # Conhecimentos basicos em:
+ 
+ 
+ <br>
+  
+  <div style="display: inline_block">
+  <img align="center"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </div>
+ 
+##
   
 </div>
   <div align="left" > 
